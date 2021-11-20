@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "data": "AAA",
+            "factor": 7
+        },
+        {
+            "data": "BBB",
+            "factor": 10
+        },
+        {
+            "data": "CCC",
+            "factor": 8
+        },
+        {
+            "data": "DDD",
+            "factor": 7
+        },
+        {
+            "data": "EEE",
+            "factor": 9
+        },
+        {
+            "data": "FFF",
+            "factor": 6
+        }
+    ]
+}

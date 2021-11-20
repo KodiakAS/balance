@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "data": "Hello",
+            "factor": "ass"
+        },
+        {
+            "data": "World",
+            "factor": 2
+        }
+    ]
+}
