@@ -1,1 +1,1 @@
-![demo](https://github.com/github.com/KodiakAS/balance/raw/main/demo.png)
+![demo](https://github.com/KodiakAS/balance/raw/main/demo.png)
