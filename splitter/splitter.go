@@ -16,7 +16,7 @@ func Split(items types.ItemList, bucket_num int) (types.BucketList, error) {
 	if bucket_num <= 0 {
 		return nil, errors.New("bucket number must be greater than 0")
 	}
-    
+
 	var buckets types.BucketList
 	var zerosGoto int
 	for i := 0; i < bucket_num; i++ {
